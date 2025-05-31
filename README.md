@@ -16,6 +16,6 @@ MIT
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
+Action beats perfection.
 🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
